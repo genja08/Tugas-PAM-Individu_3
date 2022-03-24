@@ -63,7 +63,7 @@ const Details = ({ route, navigation }) => {
 
         </FlatList>
 
-        <Text style={styles.footer}>Ihtiandiko Wicaksono - 119140118</Text>
+        <Text style={styles.footer}>Genja Rizky Novianto - 119140093</Text>
       </SafeAreaView>
 
 
